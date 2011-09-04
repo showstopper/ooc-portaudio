@@ -1,0 +1,4 @@
+Name: portaudio
+Description: Audio abstraction library
+SourcePath: source
+Libs: -lportaudio
